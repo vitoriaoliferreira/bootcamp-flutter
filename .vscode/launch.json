@@ -9,7 +9,7 @@
             "cwd": "dioapp",
             "request": "launch",
             "type": "dart",
-            "program": "/meu_app/bin/meu_app.dart"
+            "program": "\bootcamp-flutter\meu_app_testes\bin\meu_app_testes.dart"
         },
         {
             "name": "dioapp (profile mode)",
