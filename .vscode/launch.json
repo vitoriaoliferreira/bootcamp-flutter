@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "dioapp",
+            "cwd": "dioapp",
+            "request": "launch",
+            "type": "dart",
+            "program": "/meu_app/bin/meu_app.dart"
+        },
+        {
+            "name": "dioapp (profile mode)",
+            "cwd": "dioapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dioapp (release mode)",
+            "cwd": "dioapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "meu_app",
+            "cwd": "meu_app",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
